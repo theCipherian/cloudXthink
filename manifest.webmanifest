@@ -1,0 +1,22 @@
+{
+  "name": " ",
+  "short_name": "Weldios LMS",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "description": "lms system",
+  "theme_color": "#FFFFFF",
+  "orientation":"portrait",
+  "icons": [
+    {
+      "src": "weldios_thingy.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "weldios_thingy.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
