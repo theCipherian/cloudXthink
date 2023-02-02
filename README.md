@@ -1,2 +1,2 @@
 # cloudXthink
-cloudXthink is an opensource learning and tutoring platform developed by the cipherians
+cloudXthink is an opensource learning and tutoring platform built and maintained by the Cipherians.
